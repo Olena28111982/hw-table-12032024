@@ -1,0 +1,8 @@
+table {
+  border: 1px solid rgba(128, 128, 128, 0.329);
+  border-collapse: collapse;
+}
+
+th {
+  color: rgba(14, 14, 245, 0.952);
+}
